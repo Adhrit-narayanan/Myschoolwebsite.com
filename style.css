@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+    background-color:rgb(233, 236, 42);
+  }
+  #appu{
+    height: 300px;
+    width: 300px;
+  }
+  #about{
+    background-color: rgb(6, 255, 255);
+  }
+  #images{
+    background-color: burlywood;
+  }
+  #man{
+    height: 900px;
+    width: 900px;
+  }
+  #websites{
+    background-color: cyan;
+  }
+  #contact{
+    background-color: rgb(245, 150, 118);
+  }
+  #school{
+    background-color: rgb(99, 247, 99);
+  }
+  html{
+    scroll-behavior: smooth;
+}
+.movie-head{
+  font-size: 20px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  width: 100%;
+  display: inline-block;
+padding: 6px 22px;
+}
+.movie-head i{
+  float: right;
+}
